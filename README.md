@@ -11,6 +11,6 @@ Autorski projekt inteligentnego sterownika automatyki domowej dedykowany do niez
 ## Etapy rozwoju projektu (Milestones):
 - [x] Analiza instalacji elektrycznej oraz dobór komponentów sprzętowych (Moduły przekaźników 10A L/H z optoizolacją).
 - [x] Opracowanie bezpiecznej mapy pinów GPIO dla ESP32.
-- [ ] Konfiguracja środowiska programistycznego i testy komunikacji (Blink/UART).
+- [-] Konfiguracja środowiska programistycznego (Wybór: VS Code + PlatformIO) i testy komunikacji (Blink/UART).
 - [ ] Implementacja logiki sekwencera i kolejkowania zadań.
 - [ ] Testy na żywym organizmie i wdrożenie.
