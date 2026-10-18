@@ -60,6 +60,16 @@ Ten plik stanowi rejestr zaawansowanych kompetencji inżynierskich, architektoni
 * **Kompetencja:** Wdrażanie zaawansowanych profili i rusztowań testowych (Test Scaffolding) zintegrowanych z systemem zarządzania projektem (PlatformIO CLI).
 * **Dowód w projekcie:** Wprowadzenie niezależnych flag preprocesora (`RUN_TEST_EMERGENCY_STOP`, `RUN_TEST_CALIBRATION`) do konfiguracji środowiskowej. Pozwoliło to na hermetyzację eksperymentalnych scenariuszy wykonawczych w pliku `main.cpp`. Architektura ta umożliwia deweloperowi błyskawiczne włączanie/wyłączanie testów regresji sprzętowej z poziomu pliku `platformio.ini` bez ingerencji w strukturę kodu produkcyjnego, eliminując ryzyko przypadkowego pozostawienia kodu debugującego w wersji finalnej.
 
+## 12. Projektowanie Interfejsów Tekstowych i Parserów Strumieniowych (Stream Parsers & CLI Design)
+
+* **Kompetencja:** Implementacja lekkich, nieblokujących parserów strumieni danych (Stream Parsing) dla interfejsów diagnostyczno-kontrolnych (Command Line Interface).
+* **Dowód w projekcie:** Zaprojektowanie i wdrożenie asynchronicznego parsera komend szeregowych `SerialParser`. Zastosowanie buforowania znakowego sterowanego przerwaniami strumienia UART pozwala na bezbłędne dekodowanie instrukcji sterujących (`STOP_ALL`, `SALON_UP`) w czasie rzeczywistym. Architektura ta nie zakłóca pracy pętli głównej mikrokontrolera (Zero-Blocking Loop Execution) oraz izoluje warstwę parsowania od fizycznej logiki wykonawczej sekwencera.
+
+## 13. Projektowanie Architektury Sieciowej IoT i Trybów Awaryjnych (Fail-Safe Network Topologies)
+
+* **Kompetencja:** Implementacja hybrydowych stosów sieciowych Wi-Fi (Dual AP/STA Mode) o wysokiej odporności na błędy infrastruktury zewnętrznej.
+* **Dowód w projekcie:** Zaprojektowanie i wdrożenie modułu `WiFiManager` zarządzającego połączeniem bezprzewodowym w sposób asynchroniczny. Zastosowanie deterministycznego mechanizmu kontroli czasu oczekiwania (Connection Timeout) wyeliminowało ryzyko całkowitego zablokowania pętli głównej mikrokontrolera w przypadku awarii domowego routera. Wprowadzenie automatycznego trybu przełączania w stan punktu dostępowego (Fallback Access Point) zapewnia ciągłą dostępność interfejsu konfiguracyjnego i serwisowego urządzenia w każdych warunkach radiowych.
+
 
 Profil Zawodowy do CV (Wersja Robocza)
 Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący rzetelną, fundamentalną wiedzę z zakresu architektury sprzętowej (ARM7, systemy dedykowane) z nowoczesnymi narzędziami szybkiego prototypowania i wdrażania systemów (ESP32, FreeRTOS, PlatformIO). Specjalizuje się w projektowaniu bezpiecznych elektrycznie i optymalnych energetycznie algorytmów sterowania (Hardware-Enforced Safety). Wykazuje wyjątkową zdolność adaptacji nowych technologii oraz efektywnej pracy w paradygmacie AI-Assisted Programming, przekładając koncepcje biznesowe i architektoniczne na niezawodny kod produkcyjny.
