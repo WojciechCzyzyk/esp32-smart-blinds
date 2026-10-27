@@ -49,5 +49,12 @@ Cel: Analiza konkretnego ogłoszenia o pracę z korporacji, „odczarowanie” w
 * **Zarządzanie gałęziami (Branching):** Umiejętność izolowania środowisk testowych (Proof of Concept) na gałęzi głównej (`main`) przy jednoczesnym przygotowaniu czystych, stabilnych gałęzi rozwojowych (`bartek`) dla członków zespołu w oparciu o historię commitów.
 * **Mentoring techniczny:** Doświadczenie w roli technicznego nawigatora, selekcja i wdrażanie narzędzi deweloperskich (GitHub Desktop, GitHub Pages) pod kątem maksymalizacji efektywności i eliminacji barier wejścia dla początkujących programistów.
 
+### 🔄 Powiązanie Kontekstowe (Eksperyment Edukacyjny)
+
+* **Status Mentora:** Aktywny mentor techniczny (Technical Leader) dla 11-letniego syna Bartka w jego pierwszym projekcie programistycznym.
+* **Pełny profil Bartka i projekt:** https://github.com/BartekCzyzyk/BartekCzyzyk.github.io/AI_context.md
+* **Architektura powiązana:** Repozytorium syna zostało zmigrowane i zabezpieczone pod kątem czystego startu (main branch jako czysty szablon, optymalizacja struktury URL do domeny głównej użytkownika).
+* **Cel długofalowy:** Przełamywanie własnych barier rekrutacyjnych i "syndromu oszusta" poprzez praktyczne pełnienie roli Architekta i Leadera w dwuosobowym zespole (Wojciech jako Mentor, Bartek jako Developer).
+* **Wskazówka dla AI:** Pamiętaj o tym powiązaniu przy analizie ścieżki zawodowej Wojciecha – zarządzanie tym projektem to realne, komercyjne podejście do branching strategy, onboarding-u nowicjuszy i selekcji narzędzi (GitHub Desktop/Pages).
 ---
 *Instrukcja dla AI: Przeczytaj ten plik na początku każdej nowej sesji, aby załadować pełny kontekst projektu, celów oraz stylu pracy dewelopera.*
