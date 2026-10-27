@@ -70,6 +70,12 @@ Ten plik stanowi rejestr zaawansowanych kompetencji inżynierskich, architektoni
 * **Kompetencja:** Implementacja hybrydowych stosów sieciowych Wi-Fi (Dual AP/STA Mode) o wysokiej odporności na błędy infrastruktury zewnętrznej.
 * **Dowód w projekcie:** Zaprojektowanie i wdrożenie modułu `WiFiManager` zarządzającego połączeniem bezprzewodowym w sposób asynchroniczny. Zastosowanie deterministycznego mechanizmu kontroli czasu oczekiwania (Connection Timeout) wyeliminowało ryzyko całkowitego zablokowania pętli głównej mikrokontrolera w przypadku awarii domowego routera. Wprowadzenie automatycznego trybu przełączania w stan punktu dostępowego (Fallback Access Point) zapewnia ciągłą dostępność interfejsu konfiguracyjnego i serwisowego urządzenia w każdych warunkach radiowych.
 
+## 14.  Nowe kompetencje (Wdrożenie w zespole)
+* **Git & GitHub w pracy zespołowej:** Praktyczne projektowanie architektury repozytoriów dla zespołów wieloosobowych (na przykładzie duetu Mentor-Developer). 
+* **Zarządzanie gałęziami (Branching):** Umiejętność izolowania środowisk testowych (Proof of Concept) na gałęzi głównej (`main`) przy jednoczesnym przygotowaniu czystych, stabilnych gałęzi rozwojowych (`bartek`) dla członków zespołu w oparciu o historię commitów.
+* **Mentoring techniczny:** Doświadczenie w roli technicznego nawigatora, selekcja i wdrażanie narzędzi deweloperskich (GitHub Desktop, GitHub Pages) pod kątem maksymalizacji efektywności i eliminacji barier wejścia dla początkujących programistów.
+
+
 
 Profil Zawodowy do CV (Wersja Robocza)
 Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący rzetelną, fundamentalną wiedzę z zakresu architektury sprzętowej (ARM7, systemy dedykowane) z nowoczesnymi narzędziami szybkiego prototypowania i wdrażania systemów (ESP32, FreeRTOS, PlatformIO). Specjalizuje się w projektowaniu bezpiecznych elektrycznie i optymalnych energetycznie algorytmów sterowania (Hardware-Enforced Safety). Wykazuje wyjątkową zdolność adaptacji nowych technologii oraz efektywnej pracy w paradygmacie AI-Assisted Programming, przekładając koncepcje biznesowe i architektoniczne na niezawodny kod produkcyjny.
