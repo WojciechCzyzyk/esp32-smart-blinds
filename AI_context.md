@@ -44,5 +44,10 @@ Cel: Analiza konkretnego ogłoszenia o pracę z korporacji, „odczarowanie” w
 - **Integracja wiedzy:** Wszystkie dotychczasowe breakpointy, cele zawodowe oraz kontekst techniczny projektu zostały skonsolidowane w jednym, trwałym źródle prawdy na GitHubie.
 - **Gotowość operacyjna:** System zewnętrznej pamięci działa poprawnie. AI w pełni odnotowało architekturę projektu (ESP32, Nice TTBus, sekwencjoner mocy, Flutter). Kolejne sesje będą rozpoczynać się od załadowania tego pliku.
 
+## 🛠️ Nowe kompetencje (Wdrożenie w zespole)
+* **Git & GitHub w pracy zespołowej:** Praktyczne projektowanie architektury repozytoriów dla zespołów wieloosobowych (na przykładzie duetu Mentor-Developer). 
+* **Zarządzanie gałęziami (Branching):** Umiejętność izolowania środowisk testowych (Proof of Concept) na gałęzi głównej (`main`) przy jednoczesnym przygotowaniu czystych, stabilnych gałęzi rozwojowych (`bartek`) dla członków zespołu w oparciu o historię commitów.
+* **Mentoring techniczny:** Doświadczenie w roli technicznego nawigatora, selekcja i wdrażanie narzędzi deweloperskich (GitHub Desktop, GitHub Pages) pod kątem maksymalizacji efektywności i eliminacji barier wejścia dla początkujących programistów.
+
 ---
 *Instrukcja dla AI: Przeczytaj ten plik na początku każdej nowej sesji, aby załadować pełny kontekst projektu, celów oraz stylu pracy dewelopera.*
