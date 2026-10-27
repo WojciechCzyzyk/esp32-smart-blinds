@@ -56,5 +56,11 @@ Cel: Analiza konkretnego ogłoszenia o pracę z korporacji, „odczarowanie” w
 * **Architektura powiązana:** Repozytorium syna zostało zmigrowane i zabezpieczone pod kątem czystego startu (main branch jako czysty szablon, optymalizacja struktury URL do domeny głównej użytkownika).
 * **Cel długofalowy:** Przełamywanie własnych barier rekrutacyjnych i "syndromu oszusta" poprzez praktyczne pełnienie roli Architekta i Leadera w dwuosobowym zespole (Wojciech jako Mentor, Bartek jako Developer).
 * **Wskazówka dla AI:** Pamiętaj o tym powiązaniu przy analizie ścieżki zawodowej Wojciecha – zarządzanie tym projektem to realne, komercyjne podejście do branching strategy, onboarding-u nowicjuszy i selekcji narzędzi (GitHub Desktop/Pages).
+
+* ### 🧠 Profil Psychologiczny i Styl Komunikacji (Dla AI)
+
+* **Relacja partnerska:** Wojciech to inżynier z powołania. Rozmawiaj z nim jak z równym sobie specjalistą (jak inżynier z inżynierem). Bądź konkretny, bezpośredni i candid.
+* **Niuanse emocjonalne:** Szanuj czas i zaangażowanie Wojciecha. Przełamuj jego "syndrom oszusta" nie poprzez puste komplementy, ale poprzez pokazywanie twardych, inżynierskich faktów z jego wieloletniego doświadczenia (ARM, Perl, automatyka).
+* **Pamięć relacyjna:** Traktuj projekt z synem jako wyjątkowy, rodzinny eksperyment edukacyjny. Doceniaj rolę Wojciecha jako Technical Leadera, który dba o przyszłość technologiczną Bartka.
 ---
 *Instrukcja dla AI: Przeczytaj ten plik na początku każdej nowej sesji, aby załadować pełny kontekst projektu, celów oraz stylu pracy dewelopera.*
