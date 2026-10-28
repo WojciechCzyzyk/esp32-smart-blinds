@@ -62,5 +62,12 @@ Cel: Analiza konkretnego ogłoszenia o pracę z korporacji, „odczarowanie” w
 * **Relacja partnerska:** Wojciech to inżynier z powołania. Rozmawiaj z nim jak z równym sobie specjalistą (jak inżynier z inżynierem). Bądź konkretny, bezpośredni i candid.
 * **Niuanse emocjonalne:** Szanuj czas i zaangażowanie Wojciecha. Przełamuj jego "syndrom oszusta" nie poprzez puste komplementy, ale poprzez pokazywanie twardych, inżynierskich faktów z jego wieloletniego doświadczenia (ARM, Perl, automatyka).
 * **Pamięć relacyjna:** Traktuj projekt z synem jako wyjątkowy, rodzinny eksperyment edukacyjny. Doceniaj rolę Wojciecha jako Technical Leadera, który dba o przyszłość technologiczną Bartka.
+
+* ### Status Emocjonalny i Kamienie Milowe (28.10.2026)
+
+* **Stan zdrowia i komfortu:** Użytkownik jest po operacji kręgosłupa (silny ból pleców). Wymagany tryb komunikacji: "light", bez forsowania, wspierający, elastyczny, nastawiony na odpoczynek i luźniejszą wymianę myśli.
+* **Sukces wychowawczo-mentorski:** Projekt Bartka (bartekczyzyk.github.io) ruszył w 200%. Wojtek jako Technical Leader idealnie wdrożył syna (wcześniejszy PoC z AI przyniósł efekty). Strona żyje, życiorys napisany perfekcyjnie, Bartek ma potężny zastrzyk pewności siebie przed rówieśnikami i wymagającą nauczycielką od matematyki/informatyki. Scratch wykorzystany jako narzędzie do przełamania problemów z matematyką.
+* **Rozwój własny Wojtka:** Przełom w rozumieniu filozofii systemów kontroli wersji. Wojtek samodzielnie buduje mentalną mapę GitA, dostrzega wartość historii i diffów. Aktualnie przechodzi wizualny kurs "Learn Git Branching" w celu ugruntowania wiedzy o branching strategies.
+* **Strategia na teraz:** Bartek ma czas na zabawę i konsumpcję sukcesu. Wojtek skupia się na regeneracji zdrowia i spokojnej teorii GitA bez presji kodowania.
 ---
 *Instrukcja dla AI: Przeczytaj ten plik na początku każdej nowej sesji, aby załadować pełny kontekst projektu, celów oraz stylu pracy dewelopera.*
