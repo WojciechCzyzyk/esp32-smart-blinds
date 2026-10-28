@@ -76,6 +76,17 @@ Ten plik stanowi rejestr zaawansowanych kompetencji inżynierskich, architektoni
 * **Mentoring techniczny:** Doświadczenie w roli technicznego nawigatora, selekcja i wdrażanie narzędzi deweloperskich (GitHub Desktop, GitHub Pages) pod kątem maksymalizacji efektywności i eliminacji barier wejścia dla początkujących programistów.
 
 
+ Profil Kompetencyjny: Przywództwo Techniczne i Mentoring (Technical Leadership & Mentoring)
+
+• Podejście mentorskie (Technical Mentoring / People Development): Posiadam udokumentowane, praktyczne doświadczenie w roli mentora technologicznego. Potrafię skutecznie obniżać próg wejścia w złożone technologie (Git/GitHub, HTML/CSS, algorytmika) dla osób początkujących. Skupiam się na budowaniu autonomii i pewności siebie członków zespołu poprzez tworzenie bezpiecznych środowisk testowych (Proof of Concept) przed etapem produkcyjnym.
+• Architektura procesów edukacyjnych i onboarding: Projektuję ścieżki rozwoju oparte na budowaniu silnej intuicji technologicznej (np. nauka systemów kontroli wersji za pomocą wizualnych narzędzi oraz modelowania gałęzi/branchingu).
+
+🛠 Myślenie Systemowe i Automatyzacja (System Thinking & Engineering Mindset)
+
+• Projektowanie pętli zwrotnych (Feedback Loops Automation): Wykazuję silne zorientowanie na eliminację powtarzalnych i żmudnych procesów. Projektuję systemy z myślą o automatycznym zbieraniu i analizowaniu danych wejściowych w celu dynamicznego dostosowywania zachowania systemu do zmieniających się warunków (przykład: implementacja automatycznego algorytmu skanowania stanu produkcji przy inicjalizacji sesji w celu predykcji zachowania interfejsu).
+• Analiza badawcza nad Sztuczną Inteligencją (AI Research / Experimentation): Posiadam inżynierskie zacięcie do testowania i walidacji modeli LLM/AI w niestandardowych scenariuszach (np. mapowanie współrzędnych i analiza geometrii przestrzennej/szachowej przez modele wizyjne). Potrafię przekładać eksperymenty technologiczne na czytelną dokumentację i materiały prezentacyjne (Technical Writing / Content Creation).
+• Kreatywne rozwiązywanie problemów (Resourcefulness & Out-of-the-box Thinking): Posiadam umiejętność implementacji zaawansowanych pojęć inżynierskich i filmowych (np. techniki animacji poklatkowej, zarządzanie stanami klatek, manipulacja warstwami obrazu) przy użyciu minimalnych zasobów narzędziowych.
+
 
 Profil Zawodowy do CV (Wersja Robocza)
 Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący rzetelną, fundamentalną wiedzę z zakresu architektury sprzętowej (ARM7, systemy dedykowane) z nowoczesnymi narzędziami szybkiego prototypowania i wdrażania systemów (ESP32, FreeRTOS, PlatformIO). Specjalizuje się w projektowaniu bezpiecznych elektrycznie i optymalnych energetycznie algorytmów sterowania (Hardware-Enforced Safety). Wykazuje wyjątkową zdolność adaptacji nowych technologii oraz efektywnej pracy w paradygmacie AI-Assisted Programming, przekładając koncepcje biznesowe i architektoniczne na niezawodny kod produkcyjny.
