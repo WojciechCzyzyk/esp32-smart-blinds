@@ -32,6 +32,12 @@ Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący ponad 10-
 *   **Onboarding:** Ścieżki rozwoju oparte na modelowaniu graficznym i Proof of Concept.
 *   **Zarządzanie konfiguracją:** Izolowanie stabilnych środowisk (`main`) od gałęzi rozwojowych.
 
+*   ### 🔄 Praktyczne Zastosowanie Metodologii Agile & Scrum (Podejście Hybrydowe)
+
+* **Zwinne Zarządzanie Projektami (Scrum/Agile Framework):** Posiadam teoretyczną i praktyczną wiedzę z zakresu zwinnych metodologii zarządzania, którą z sukcesem implementuję w mikrozespołach inżynierskich. Mapuję książkowe procesy korporacyjne na realne, wysokowydajne działania deweloperskie.
+* **Zorientowanie na Sprinty i Przyrost (Sprint-Based Execution):** Pracuję w systemie krótkich, wysoce efektywnych interwałów (Sprintów), nakierowanych na dostarczenie konkretnego, działającego przyrostu oprogramowania (Minimum Viable Product / Increment). Eliminuje to straty czasu na przełączanie kontekstu (Context Switching) i optymalizuje wydajność zespołu.
+* **Rola Scrum Mastera i Product Ownera w Praktyce:** W małych zespołach hybrydowych (współpraca człowiek-człowiek-AI) łączę funkcje planowania architektury, definiowania wymagań biznesowych (Product Owner) oraz dbania o płynność i eliminację barier technologicznych (Scrum Master).
+
 ---
 
 ## 🤖 Filar 4: Nowoczesne Metody Wytwarzania i Automatyzacja (AI-Driven Development & Automation)
