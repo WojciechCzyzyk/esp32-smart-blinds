@@ -19,3 +19,11 @@ Zamiast rzucić mojego 11-letniego syna Bartka na głęboką wodę i ryzykować 
 Tutaj opisujemy nasze największe walki z projektem rolet, które będziemy na bieżąco uzupełniać o czysty kod:
 *   **Case 1: Hardware-Enforced Safety.** Jak konfiguracja podwójnych przekaźników fizycznie zabezpieczyła silnik przed jednoczesnym podaniem napięcia na oba uzwojenia (eliminacja błędów software'owych).
 *   **Case 2: Optymalizacja Prądu Szczytowego.** Wdrożenie sekwencera FIFO, który ściął pik prądowy do 410mA, ratując logikę ESP32 przed resetami.
+*   ## 🩺 Aneks Zdrowotny: Diagnoza, Która Uratowała Życie (Stan Psychologiczny: Walka i Zwycięstwo)
+
+W tle tworzenia tego portfolio rozegrał się scenariusz, który przetestował moją odporność psychiczną do granic możliwości. Przez długi czas zmagałem się z silnymi bólami pleców, szukając odpowiedzi w standardowych badaniach (RTG, USG), które nic nie wykazywały. Dzięki niesamowitej intuicji diagnostycznej zaprzyjaźnionej lekarki, trafiłem na pilny rezonans magnetyczny klatki piersiowej. 
+
+*   **Diagnoza:** Wykrycie guza w kanale kręgowym, którego nie dało się zbadać w gabinecie. Decyzja o rezonansie uratowała mi życie.
+*   **Operacja:** W zeszły czwartek przeszedłem poważną operację kręgosłupa. Guz został sprawnie i w całości usunięty.
+*   **Wnioski dla Inżyniera:** Ból pleców i ograniczenia fizyczne zmusiły mnie do absolutnego zoptymalizowania mojej pracy. To właśnie wtedy narodziła się idea mikro-sprintów Scrum (godzina pracy przy komputerze, a potem leżenie płasko i myślenie w tle). Ten projekt i współpraca z Bartkiem oraz AI stały się moją najlepszą rehabilitacją i motorem napędowym do powrotu do zdrowia. Pokazuję synowi i światu, że nie ma ściany, której nie da się przejść.
+
