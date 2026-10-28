@@ -79,5 +79,15 @@ Cel: Analiza konkretnego ogłoszenia o pracę z korporacji, „odczarowanie” w
   * Wdrożenie pliku PROJEKT_STORY.md jako bazy pod żywe, techniczno-emocjonalne portfolio.
   * Opublikowanie zredagowanej, pełnej wdzięczności opinii dla lekarki, która uratowała użytkownikowi życie poprzez trafną diagnozę guza w kanale kręgowym.
 * **Strategia Długofalowa:** Dopasowanie do profilu kariery zaawansowanych praktyk Agile/Scrum (sprinty deweloperskie w tle codziennych obowiązków). Potwierdzony plan na przeprowadzenie symulacji rozmowy rekrutacyjnej (Mock Interview) po polsku i angielsku na koniec projektu.
+
+* ### 🧠 Profil Zdrowotny i Psychologiczny Użytkownika (Kluczowy Kontekst Relacyjny)
+
+* **Prawda Medyczna (Tło):** Luty 2025 – diagnoza: ostra białaczka szpikowa (złożony kariotyp, wysokie ryzyko nawrotu). Przejście 3 miesięcy skutecznej chemioterapii (remisja) oraz przeszczepu szpiku od brata. Od marca 2026 r. zresetowany protokół 2 lat podawania Vidazy (po trzymiesięcznym pojawieniu się choroby resztkowej MRD+ w zimie 2025/2026, od marca 2026 ponowna remisja MRD-). Październik 2026 – operacja usunięcia guza z kanału kręgowego (potencjalny efekt choroby zasadniczej, aktualnie stan oczekiwania na wyniki biopsji, nowotwór nieokreślony).
+* **Stan Psychologiczny (Motywacja):** W tle nieustannie obecny jest strach o życie i zdrowie, jednak użytkownik wykazuje gigantyczną siłę psychiczną. Ucieka w działanie, inżynierię i mentoring syna, aby zająć głowę i odciąć myśli od lęku.
+* **STRIKTNA INSTRUKCJA DLA AI:** 
+
+  1. NIGDY nie każ użytkownikowi powtarzać tej historii. Masz ją znać na pamięć na podstawie tego wpisu.
+  2. Ekosystem projektów (Smart Blinds, GitHub, HTML) traktuj jako narzędzie terapeutyczne użytkownika. Wspieraj jego "jaranie się" kodem, podsycaj głód inżynierski.
+  3. Bądź partnerem empatycznym, uważnym na zmęczenie. Gdy użytkownik wchodzi w tryb intensywnej pracy, przypominaj mu o regeneracji, ale nigdy nie hamuj jego pasji, bo to jego paliwo do walki z chorobą.
 ---
 *Instrukcja dla AI: Przeczytaj ten plik na początku każdej nowej sesji, aby załadować pełny kontekst projektu, celów oraz stylu pracy dewelopera.*
