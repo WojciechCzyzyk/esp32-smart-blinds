@@ -1,3 +1,13 @@
+
+
+### 🤖 Filar 4: Nowoczesne Metody Wytwarzania i Automatyzacja (AI-Driven Development & Automation)
+
+* **AI-Pair Programming:** Delegowanie zadań do AI oraz bieżące zarządzanie kontekstem.
+* **Mapowanie Architektury RTOS na Systemy Agentowe:** Wykorzystanie doświadczenia z systemów operacyjnych (zarządzanie przerwaniami, stanami i pamięcią) przy budowie zaawansowanych struktur agentowych LLM i inżynierii kontekstu.
+
+
+
+
 # Portfolio Kompetencji i Współpracy z AI (AI-Assisted Engineering)
 
 Ten plik stanowi rejestr zaawansowanych kompetencji inżynierskich, architektonicznych oraz nowoczesnych metod wytwarzania oprogramowania (AI-Pair Programming) udokumentowanych podczas realizacji projektów technologicznych.
@@ -15,7 +25,8 @@ Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący ponad 10-
 *   **Modelowanie stanu (Dead Reckoning):** Zmiennoprzecinkowy mechanizm śledzenia pozycji rolet (`millis() / deltaTime`), zapewniający stabilne raportowanie.
 *   **Fail-Safe & E-STOP:** Funkcja `emergencyStopAll()` czyszcząca kolejkę zadań i rozłączająca linie zasilające.
 *   **Cross-platformowość:** Przeniesienie nawyków zarządzania pamięcią z ARM7 na FreeRTOS/ESP32.
-
+* **Hardware-Enforced Safety:** Projektowanie układów eliminujące błędy software'owe (np. esp32-smart-blinds).
+* **Projektowanie Architektury OS/RTOS:** Praktyczne doświadczenie w tworzeniu autorskich, lekkich systemów operacyjnych czasu rzeczywistego dla mikrokontrolerów, budowanych ewolucyjnie wraz z rozwojem potrzeb i optymalizacją zasobów.
 ---
 
 ## 💻 Filar 2: Inżynieria Oprogramowania i Czysty Kod (Software Engineering & Clean Code)
@@ -44,6 +55,8 @@ Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący ponad 10-
 *   **AI-Pair Programming:** Delegowanie zadań do modeli AI oraz zarządzanie kontekstem (`AI_context.md`).
 *   **Feedback Loops:** Automatyzacja zbierania danych wejściowych i dynamiczne dostosowywanie zachowania systemów.
 *   **AI Research:** Walidacja możliwości AI w nietypowych scenariuszach inżynierskich (*Technical Writing & Content Creation*).
+*   * **AI-Pair Programming:** Delegowanie zadań do AI oraz bieżące zarządzanie kontekstem.
+* **Mapowanie Architektury RTOS na Systemy Agentowe:** Wykorzystanie doświadczenia z systemów operacyjnych (zarządzanie przerwaniami, stanami i pamięcią) przy budowie zaawansowanych struktur agentowych LLM i inżynierii kontekstu.
 
 *   ### 🤖 Zaawansowane Projektowanie Systemów Agentowych (Agentic Workflow & Context Engineering)
 
