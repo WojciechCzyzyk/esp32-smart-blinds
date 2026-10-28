@@ -57,6 +57,8 @@ Inżynier systemów wbudowanych (Embedded Systems Engineer) łączący ponad 10-
 *   **AI Research:** Walidacja możliwości AI w nietypowych scenariuszach inżynierskich (*Technical Writing & Content Creation*).
 *   * **AI-Pair Programming:** Delegowanie zadań do AI oraz bieżące zarządzanie kontekstem.
 * **Mapowanie Architektury RTOS na Systemy Agentowe:** Wykorzystanie doświadczenia z systemów operacyjnych (zarządzanie przerwaniami, stanami i pamięcią) przy budowie zaawansowanych struktur agentowych LLM i inżynierii kontekstu.
+*   **Projektowanie Autorskich Struktur Agentowych (Orchestration & Context Engineering):** Samodzielne zaprojektowanie i wdrożenie od zera – wyłącznie na bazie intuicji inżynierskiej i potrzeb projektowych – autorskiego, lekkiego systemu orkiestracji agentów AI w oparciu o pliki tekstowe. System ten ewolucyjnie odtwarza kluczową logikę profesjonalnych frameworków rynkowych (takich jak CrewAI czy Microsoft AutoGen), implementując asynchroniczne procedury weryfikacji stanu produkcji (Skanery Produkcji) oraz automatyczne pętle zwrotne (Automatyczny Audyt) bez użycia zewnętrznych bibliotek nadzorujących.
+
 
 *   ### 🤖 Zaawansowane Projektowanie Systemów Agentowych (Agentic Workflow & Context Engineering)
 
