@@ -1,0 +1,29 @@
+🗺️ Architektura Systemu esp32-smart-blinds (Diagram Klas)
+
++---------------------------------------+ | BlindsManager
+  | 
+  <-- Centralny Zarządca +---------------------------------------+ | - blindsDrive: NiceTTBusDrive | | - powerSequencer: PowerSequencer | | - currentPosition: uint8_t | +---------------------------------------+ | + init() | | + setPosition(targetPos: uint8_t) | | + emergencyStop() | +---------------------------------------+ | +--------------+--------------+ | | v v +-----------------------+ +-----------------------+ | NiceTTBusDrive | | PowerSequencer | +-----------------------+ +-----------------------+ | - uartPort: int | | - relayPins: span | | - isRunning: bool | | - isPowerOn: bool | +-----------------------+ +-----------------------+ | + sendCmd(cmd: bit) | | + powerUp() | | + readStatus(): opt | | + powerDown() | +-----------------------+ +-----------------------+ ^ ^ | | +--------------+--------------+ | | (Inicjuje i steruje) v +---------------------------------------+ | WebNetworkSystem | <-- Warstwa Brzegowa +---------------------------------------+ | - wifiSSID: string_view | | - serverPort: uint16_t | +---------------------------------------+ | + connectWiFi(): bool | | + startWebServer() | | - handleHtmlRequest() | +---------------------------------------+ 
+
+🧠 Rozbicie klocków na czynniki pierwsze (Co tu się dzieje?)
+
+• BlindsManager (Serce Systemu / Orkiestrator):
+
+• Zadanie: To jest główna klasa, Twój Technical Leader w kodzie. Ona nie wie, jak fizycznie machać pinami, ani co to jest HTTP. Jej zadaniem jest logika biznesowa.
+
+• Jak działa: Kiedy dostaje rozkaz setPosition(50), najpierw odpala PowerSequencer, żeby bezpiecznie podać zasilanie na szynę, a potem mówi do NiceTTBusDrive: "wyślij ramkę o ruchu do połowy".
+
+• NiceTTBusDrive (Kierowca sprzętowy / Hardware Driver):
+
+• Zadanie: Odpowiada wyłącznie za czystą mechanikę protokołu Nice TTBus.
+
+• Nowoczesny C++: Zamiast sypać błędami, jej metoda readStatus() zwraca std::optional<NiceStatus>, a funkcja sendCmd przyjmuje precyzyjne paczki danych opakowane w std::span (zero ryzyka wycieku!).
+
+• PowerSequencer (Bezpiecznik energetyczny):
+
+• Zadanie: Pilnuje sekwencji załączania przekaźników zasilania. Chroni silniki i instalację przed nagłym uderzeniem prądowym.
+
+• WebNetworkSystem (Komunikacja ze światem):
+
+• Zadanie: Odpowiada za połączenie z Twoją domową siecią WiFi i wystawia lekki serwer HTTP (AJAX/WebSockets).
+
+• Jak działa: Kiedy klikasz przycisk na smartfonie, ta klasa łapie zapytanie i woła metodę z BlindsManager. Całkowita separacja kodu sieciowego od sterowania silnikiem!
